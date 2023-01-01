@@ -1,0 +1,137 @@
+img {
+  width: 1440px;
+  height: 900px;
+}
+
+body {
+  text-align: center;
+  background-color: #0B0D17;
+}
+.Destination-A {
+  position: relative;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 150px;
+  color: #FFFFFF;
+  margin: 2px auto;
+}
+
+h2 {
+  font-family: 'Abel', sans-serif;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+
+p {
+  font-family: 'Abel', sans-serif;
+  color: #FFFFFF;
+
+}
+
+a {
+  font-family: 'Merriweather', serif;
+  color: #FFFFFF;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+hr {
+  margin-top: 50px;
+  width: 50%;
+  position: absolute;
+  right: 800px;
+  opacity: 50%
+}
+}
+
+#dest-head {
+  color: black;
+  font-family: 'Merriweather', serif;
+}
+
+.small-space {
+  margin-right: 10px;
+}
+
+.Destination-TopBar {
+
+  position: absolute;
+  bottom: 800px;
+  margin-top: 50px;
+  opacity: 0.5;
+  margin: 44px 0 0 55px;
+  width: 1385px;
+  height: 96px;
+
+}
+
+
+.Destination-Text {
+  position: absolute;
+  width: 30%;
+  bottom: 100px;
+  left: 100px;
+}
+
+.Destination-Explore {
+  position: absolute;
+  right: 200px;
+  bottom: 100px;
+  width: 274px;
+  height: 274px;
+  background: #FFFFFF;
+  -moz-border-radius: 137px;
+  -webkit-border-radius: 137px;
+  border-radius: 137px;
+}
+
+.Destination-Explore h2 {
+  margin: 130px 0;
+}
+
+.svg-class {
+  position: absolute;
+  left: 0px;
+  margin: 25px;
+
+}
+
+.destination-anchor-div{
+  background-color: rgba(255, 255, 255, 0.1);
+  position: absolute;
+  right: 0;
+  width: 830px;
+  height: 96px;
+}
+
+
+.home-anchor {
+  position: absolute;
+  margin: 20px 10px;
+  top: 20px;
+  right: 617px;
+}
+
+.destination-anchor {
+  position: absolute;
+  margin: 20px 10px;
+  top: 20px;
+  right: 439px;
+}
+
+.crew-anchor {
+  position: absolute;
+  margin: 20px 10px;
+  top: 20px;
+  right: 320px;
+}
+
+.technology-crew {
+  position: absolute;
+  margin: 20px 10px;
+  top: 20px;
+  right: 145px;
+}
